@@ -10,4 +10,4 @@ se puede encontrar en el siguiente link: https://www.kaggle.com/datasets/uciml/p
 Para el correcto funcionamiento de la cloud run se espera que el archivo que se crea en el bucket sea el provisto 
 en el presente repositorio y que lleva por nombre pima-indians-diabetes.csv
 
-Al finalizar la ejecuci+on de la  cloud run esta almacena el modelo entrenado en formato pkl en un bucket storage
+Al finalizar la ejecución de la  cloud run esta almacena el modelo entrenado en formato pkl en un bucket storage
